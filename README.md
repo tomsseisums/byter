@@ -2,6 +2,8 @@ byter
 =====
 A little helper for your byte conversion needs.
 
+Initially built for a project I'm working for.
+
 ###Usage
 ```php
 // Create a new Byter from "bytes".
